@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Prakhar Agarwal"
+title                    : "Mukund Mitra"
 title_separator          : "-"
-name                     : "Prakhar Agarwal"
-description              : "Prakhar Agarwal - Personal Webpage"
-url                      : https://prakhar-agarwal.github.io/
+name                     : "Mukund Mitra"
+description              : "Mukund Mitra - Personal Webpage"
+url                      : https://mukundmitra.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : prakhar-agarwal/prakhar-agarwal.github.io
+repository               : mukundmitra/mukundmitra.github.io
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Prakhar Agarwal"
+  name             : "Mukund Mitra"
   avatar           : "bio-photo_edit.jpg"
-  bio              : "Programmer, Developer and Aspiring Researcher"
+  bio              : "Prime Minister Research Fellow, Indian Institute of Science"
   location         : "Bangalore, India"
-  email            : prakharagarwal2511@gmail.com
+  email            : mukundmitra@iisc.ac.in
   uri              :
-  bitbucket        : prakhar_agarwal
+  bitbucket        : 
   codepen          :
   dribbble         : 
   flickr           :
