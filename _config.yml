@@ -67,7 +67,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links:
-  - "https://www.linkedin.com/in/prakharagarwal2511"
+  - "https://www.linkedin.com/in/mukund-mitra-400064140"
   # An array of links to social media profiles
 
 # Analytics
@@ -89,20 +89,15 @@ author:
   codepen          :
   dribbble         : 
   flickr           :
-  facebook         : prakharagarwal25
   foursquare       :
-  github           : prakhar-agarwal
-  google_plus      : #u/0/+PrakharAgarwal2511
+  github           : mukundmitra
   keybase          :
-  instagram        : prakharagarwal2511
   lastfm           :
-  linkedin         : prakharagarwal2511
+  linkedin         : mukund-mitra-400064140
   pinterest        :
   soundcloud       :
-  stackoverflow    : 2061991/prakhar-agarwal
   steam            :
   tumblr           :
-  twitter          : #prakhar5050
   vine             :
   weibo            :
   xing             :
