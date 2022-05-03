@@ -20,4 +20,4 @@ feature:
  [mukundmitra@iisc.ac.in](mailto:mukundmitra@iisc.ac.in) <br>
 
 #### LinkedIn : 
-  <a href="https://www.linkedin.com/in/mukund-mitra-400064140" "Mukund Mitra"></a>
+  [Mukund Mitra](https://www.linkedin.com/in/mukund-mitra-400064140)
