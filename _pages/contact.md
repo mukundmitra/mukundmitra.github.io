@@ -17,8 +17,7 @@ feature:
 {{ page.excerpt | markdownify }}
 
 #### Email :
- [prakharagarwal2511@gmail.com](mailto:prakharagarwal2511@gmail.com) <br>
- [f2012277@pilani.bits-pilani.ac.in](mailto:f2012277@pilani.bits-pilani.ac.in)
+ [mukundmitra@iisc.ac.in](mailto:mukundmitra@iisc.ac.in) <br>
 
-#### Skype Id : 
-  prakharagarwal2511
+#### LinkedIn : 
+  [Mukund Mitra] (https://www.linkedin.com/in/mukund-mitra-400064140)
