@@ -19,13 +19,13 @@ feature:
 ### Honors and Awards
 <hr>
 
-* Prime Minister Research Fellowship, August 2021.
-* Best paper award titled “Inverse Kinematics Analysis of Cassie Robot using Radial Basis Function Networks” in IEEE International Symposium of Asian Control Association on Intelligent Robotics and Industrial Automation (IRIA), 2021.
-* Late Breaking Result for poster presentation on “Tour Guide Social-Robots Task Coordination in Dynamic Indoor Environment” at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021),2021.
-* Participated, qualified, and successfully completed IEEE Robotics and Autonomous Systems (RAS) Winter School on “SLAM in Deformable environments”, Robotics Institute at University of Technology, Sydney, 2021.
-* Participated, qualified, and successfully completed task on “Design and Analysis of Bio-inspired tricopter with Delta Manipulator for Industrial Applications” in ASME, Student Mechanism and Robot Design Competition (SMRDC), 2021.
-* Presented as a speaker on “Human Aware Robot Motion Planning using RRT Algorithm in Industry 4.0 Environment” in IEEE Women in Science in Engineering group, Department of Electrical Engineering, IISc Bangalore, 2021.
-* Acquiring PRIME MINISTER’S SARVOTTAM TROPHY in honour of outstanding academic performance and Prime Minister’s scholarship for 2016-2020.
+* <b>Prime Minister Research Fellowship</b>, August 2021.
+* <b>Best paper award</b> titled “Inverse Kinematics Analysis of Cassie Robot using Radial Basis Function Networks” in <b>IEEE International Symposium of Asian Control Association on Intelligent Robotics and Industrial Automation (IRIA)</b>, 2021.
+* <b>Late Breaking Result</b> for poster presentation on “Tour Guide Social-Robots Task Coordination in Dynamic Indoor Environment” at <b>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)</b>,2021.
+* Participated, qualified, and successfully completed <b>IEEE Robotics and Autonomous Systems (RAS) Winter School</b> on “SLAM in Deformable environments”, <b>Robotics Institute at University of Technology, Sydney</b>, 2021.
+* Participated, qualified, and successfully completed task on “Design and Analysis of Bio-inspired tricopter with Delta Manipulator for Industrial Applications” in <b>ASME, Student Mechanism and Robot Design Competition (SMRDC)</b>, 2021.
+* Presented as a speaker on “Human Aware Robot Motion Planning using RRT Algorithm in Industry 4.0 Environment” in <b>IEEE Women in Science in Engineering group</b>, Department of Electrical Engineering, IISc Bangalore, 2021.
+* Acquiring <b>Prime Minister's Sarvottam Trophy</b> in honour of outstanding academic performance and <b>Prime Minister’s scholarship</b> for 2016-2020.
 
 
 ### Position of Responsibility
