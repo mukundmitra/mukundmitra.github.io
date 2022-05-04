@@ -4,7 +4,6 @@ permalink: /projects/
 title: ""
 date: 2014-06-02T15:05:16-04:00
 modified: 2016-01-04T16:38:17-05:00
-excerpt: "A selection of things I've designed, illustrated, and developed."
 ads: false
 fullwidth: true
 tiles: true
@@ -36,16 +35,9 @@ The use of Unmanned Aerial Vehicles (UAV) will play crucial role in industrial u
 2. The arms are Bio-Inspired from the Bird Wings.
 3. The design of Delta – Manipulator is optimized for maximum reach during manipulation for the tricopter specifications.
 
-### Reatime demographic insights on App features<br>
-** A platform which enables android users to visualize their daily phone usage statistics and intern earn money. The anonymised statistics are provided as a service to companies/startups enabling them to understand the demographic usage of various popular android application features using the android acceessibity service.
-Worked with Elastic search, kibana, Android accessibity service.
-*Presented at Sequoia::Hack Finals, 2016* <br>
+### Autonomous Maze Solver Robot<br>
+Solve dthe maze problem in robotics using TurtleBot3. The mobile robot avoids obstacles and simultaneously follows the wall and go from one place to another. This is done only by leveraging the data collected from 2D LiDAR sensor.<br>
 :point_right: [Source Code](https://github.com/prakhar-agarwal/insights-app)
 
-### Project E-Attend, MultimediaHCILaboratory, BITS Pilani (Jan 2014- Dec 2014) <br>
-** Implemented a Bio-metric based attendance system <br>
-   Worked with: shell scripting, Face Recognition, Face Detection and Eye Center Detection Algorithms. <br>
-   The system generates interactive attendance reports and analytics of over 5000+ students University Wide (Pilani, Goa,
-Hyderabad and Dubai campus).<br>
-:point_right:  [*Link to the Google Play Store Application*](https://play.google.com/store/apps/details?id=com.bits.e_attendv12) | [*Teachers/Students Accessible Interface*](http://e-attend.bits-pilani.ac.in/e-attend/index.php)<br>
-*Received Excellence in ICT integration award from Federation of Indian Chamber of Commerce and Industry (FICCI)
+### Design and Testing of Hydro-pneumatic Suspension System <br>
+DRDO Project under the guidance of Dr. Ajith A Babar (Scientist grade E) – Designed and studied hydraulic system used for testing of hydro-pneumatic suspension system used in Advanced Towed Artillery Gun System (ATAGS). This was successfully implemented in DRDO’s first indigenously developed Artillery Gun System.<br>
