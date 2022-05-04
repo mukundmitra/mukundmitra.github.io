@@ -9,5 +9,8 @@ main:
   - title: "Achievements"
     url: achievements/
     
+  - title: "Projects"
+    url: projects/
+    
   - title: "Contact"
     url: contact/
