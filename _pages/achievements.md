@@ -19,13 +19,13 @@ feature:
 ### Honors and Awards
 <hr>
 
-* Travel scholarship for Thesis to Heidelberg, Germany.
-* National Finalist, BuildTheShield, a Computer Security hackathon by MICROSOFT (Country Rank-15).
-* IBM Bluemix Hackathon (Finished 2nd in a 24hrs event).
-* Offered INSPIRE Scholarship for Academic excellence by the Department of Science and Technology, Government of India, 2012.
-* 99.99% percentile in National Cyber Olympiad, 2009(Country Rank-57).
-* Credited with Meritorious Student award for being a Scholar in Sir Padampat Singhania Education Centre, Kanpur.
-* A.I.E.E.E. [2012] A.I.R. of 563 (in top 0.05% among 1.13 million applicants).
+* Prime Minister Research Fellowship, August 2021.
+* Best paper award titled “Inverse Kinematics Analysis of Cassie Robot using Radial Basis Function Networks” in IEEE International Symposium of Asian Control Association on Intelligent Robotics and Industrial Automation (IRIA), 2021.
+* Late Breaking Result for poster presentation on “Tour Guide Social-Robots Task Coordination in Dynamic Indoor Environment” at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021),2021.
+* Participated, qualified, and successfully completed IEEE Robotics and Autonomous Systems (RAS) Winter School on “SLAM in Deformable environments”, Robotics Institute at University of Technology, Sydney, 2021.
+* Participated, qualified, and successfully completed task on “Design and Analysis of Bio-inspired tricopter with Delta Manipulator for Industrial Applications” in ASME, Student Mechanism and Robot Design Competition (SMRDC), 2021.
+* Presented as a speaker on “Human Aware Robot Motion Planning using RRT Algorithm in Industry 4.0 Environment” in IEEE Women in Science in Engineering group, Department of Electrical Engineering, IISc Bangalore, 2021.
+* Acquiring PRIME MINISTER’S SARVOTTAM TROPHY in honour of outstanding academic performance and Prime Minister’s scholarship for 2016-2020.
 * Best Project Award Software Design Adaptive Technology, APOGEE-2014 and Simulation and Mathematical Modelling, APOGEE-2015.
 
 
