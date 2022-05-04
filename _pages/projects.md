@@ -17,7 +17,7 @@ feature:
 
 ### Bio-inspired Multi Robot Coordination for Effective Material Handling <br>
 In this work, a bio-inspired multi-robot coordination algorithm for form closure is formulated. It is implemented on a team of robots to effectively move material to a goal location. An online computed reward function updates the task assignment probability when a specific event is triggered. A decentralized PD controller is used to navigate each robot to a goal position. There is minimal explicit robot communication. Results show that the proposed task allocation algorithm is scalable and works efficiently for any non-circular material with number of vertices, N < 20. Best reliability factor for the algorithm is RF = 0.5958. Maximum position error of centroid of the material corresponding to best RF is 0.036m. PD controller is proven to be stable using Lyapunov analysis. The navigation strategy is validated in simulation and experimentally by three robots collectively transporting a material<br>
-:point_right: [*University Project group profile*](http://www.bits-pilani.ac.in/pilani/computerscience/WearablePervasiveNetworkingLaboratory)
+:point_right: [*Multi-Robot Coordination Video*](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/mukundmitra_iisc_ac_in/EYI_0BD11w5HsKCrK9BOg50BYMkGX7M9oQ1U8ctbYM5QEA?e=D12h8C)
 
 ### Inverse Kinematic Analysis of Cassie Robot using Radial Basis Function Network <br>
 Inverse Kinematics of bipedal humanoid robots remains a challenging problem in robotics and computation, due to high order non-linearity and computation involved in Inverse Kinematics solutions. Also, there are many constraints involved with the various joint parameters which makes their analysis even more complex.
