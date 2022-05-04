@@ -16,7 +16,7 @@ feature:
 <hr>
 {{ page.excerpt | markdownify }}
 
-* Inverse Kinematics Analysis of Cassie Robot using Radial Basis Function Network <br>
-<b>Mukund Mitra</b>, Suman Raj, Shishir Kolathaya <br>
+* <i>Inverse Kinematics Analysis of Cassie Robot using Radial Basis Function Network</i> <br>
+Mukund Mitra, Suman Raj, Shishir Kolathaya <br>
 2021 International Symposium of Asian Control Association on Intelligent Robotics and Industrial Automation (IRIA)
 DOI: 10.1109/IRIA53009.2021.9588698
