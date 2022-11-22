@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Mukund Mitra"
+title                    : "Rajpal Singh"
 title_separator          : "-"
-name                     : "Mukund Mitra"
-description              : "Mukund Mitra - Personal Webpage"
-url                      : https://mukundmitra.github.io/
+name                     : "Rajpal Singh"
+description              : "Rajpal - Personal Webpage"
+url                      : https://Rajpal9.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : mukundmitra/mukundmitra.github.io
+repository               : Rajpal9/Rajpal9.github.io
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -67,34 +67,34 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links:
-  - "https://www.linkedin.com/in/mukund-mitra-400064140"
+  - "https://www.linkedin.com/in/rajpal-singh-a29012194/"
   # An array of links to social media profiles
 
 # Analytics
 analytics:
-  provider               : google  #false # false (default), "google", "google-universal", "custom"
+  provider               : #google  #false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-83430333-1
+    tracking_id          : #UA-83430333-1
 
 
 # Site Author
 author:
-  name             : "Mukund Mitra"
+  name             : "Rajpal Singh"
   avatar           : "website image_new.jpg"
   bio              : "Prime Minister Research Fellow, Indian Institute of Science"
   location         : "Bangalore, India"
-  email            : mukundmitra@iisc.ac.in
+  email            : rajpalsingh@iisc.ac.in
   uri              :
-  bitbucket        : 
+  bitbucket        :
   codepen          :
-  dribbble         : 
+  dribbble         :
   flickr           :
   foursquare       :
-  github           : mukundmitra
-  googlescholar    : user=_UoINqgAAAAJ&hl=en&oi=ao
+  github           : Rajpal9
+  googlescholar    : user=1SclfncAAAAJ&hl=en
   keybase          :
   lastfm           :
-  linkedin         : mukund-mitra-400064140
+  linkedin         : rajpal-singh-a29012194
   pinterest        :
   soundcloud       :
   steam            :
@@ -225,10 +225,10 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    
-    
+
+
 # Front Matter Defaults
-    
+
 defaults:
 
   # _pages
@@ -238,7 +238,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
+
   # _posts
   - scope:
       path: ""
